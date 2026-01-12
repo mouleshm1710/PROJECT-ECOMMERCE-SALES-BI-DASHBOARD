@@ -10,4 +10,4 @@ KPI design, and data storytelling concepts.
 
 ## Dashboard Preview
 
-![Dashboard](Dashboard%20Final%20Screenshot.png)
+![Dashboard](Dashboard%20Final%20Screenshot.png) 
